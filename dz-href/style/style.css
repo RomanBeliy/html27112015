@@ -1,0 +1,51 @@
+#picture {
+    width:680px;
+    height:480px;
+}
+.my1 {
+    color: #c40000;
+}
+.h1amino {
+    background-color: #b3d4fc;
+}
+.h1vita {
+    background-color: #fffc83;
+}
+.h1prot {
+    background-color: #54ff20;
+}
+.ulmenu {
+    background-color: #c40000;
+}
+
+
+.hrefamino:hover {
+    background-color:#8127fc;
+}
+
+.ulamino:first-child {
+    background-color: #8127fc;
+}
+.divamino:first-child {
+    background-color: green;
+}
+.pamino:first-child {
+    background-color: #8127fc;
+}
+.pamino:active {
+    background-color: #ffff00;
+}
+.ulprot~li {
+    background-color:#54ff20;
+}
+.menuprot:active {
+    background-color: #ffff00;
+}
+.menuvita:hover {
+    text-shadow: 5px 5px 0px black, -6px -6px -0px red, 37px 37px 0px green;
+    text-decoration: none;
+}
+
+#test1 {
+    text-decoration: none;
+}

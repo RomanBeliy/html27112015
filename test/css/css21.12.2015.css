@@ -1,0 +1,93 @@
+p {
+    color:green;
+    font-size: 30px;
+    background-color: yellow;
+}
+p#para1 {
+    color: white;
+    background-color: #000;
+}
+#para2 {
+    font-family:
+}
+.text-content {
+    border: 5px solid
+    black;
+}
+.myClass1.my-class2 {
+    border: 5px
+    dotted red;
+}
+/* комментарий многострочный*/
+.myClass1
+
+/*0,0,0,0, */
+* {color:black;}
+/*0,0,0,1*/
+p {color: green;}
+/*0,0,1,0*/
+.myClass {color:red;}
+/*0,1,0,0*/
+style in html
+/*1,0,0,0*/
+.new-abzac {
+    color: black !important;
+    background-color: lime;
+}
+.block {
+    border: 10px solid #000;
+    margin; 20px;
+    padding: 10px;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    color: red;
+    overflow: visible;
+
+}
+.bird {
+    background-image:url('https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/373_sprites/angry_birds.png');
+}
+.bird-red {
+    width: 100px;
+    height: 110px;
+    background-position: -10px 0;
+}
+.bird-red:hover {
+    background-position: -116px -1px;
+}
+.bird-yellow {
+    width:100px;
+    height: 110px;
+    background-position: -116px 100px;
+}
+.bird-yellow:hover {
+    background-position: -116px -1px;
+}
+
+.sprite {
+    background-image: url(../spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+
+
+.sprite-Calculator {
+    width: 24px;
+    height: 24px;
+    background-position: -39px -107px;
+}
+
+.sprite-Calendar {
+    width: 24px;
+    height: 24px;
+    background-position: -73px -107px;
+}
+
+.sprite-Car-key {
+    width: 24px;
+    height: 24px;
+    background-position: -107px -107px;
+}
+
+
+
